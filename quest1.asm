@@ -48,7 +48,6 @@ CMAIN:
     PRINT_HEX 8, rd
     NEWLINE
     
-    xor eax, eax
     xor rax, rax
     ret
 
